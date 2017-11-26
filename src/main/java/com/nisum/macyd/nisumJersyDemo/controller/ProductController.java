@@ -13,4 +13,8 @@ public String getProduct()
 	{
 		return "productggggggs";
 	}
+	public String getProductsssssssssss()
+	{
+		return "productggggggs";
+	}
 }
