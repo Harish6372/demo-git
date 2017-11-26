@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NisumJersyDemoApplication {
 
 	public static void main(String[] args) {
+		System.out.println("sating lsssskbs");
 		SpringApplication.run(NisumJersyDemoApplication.class, args);
 	}
 }
