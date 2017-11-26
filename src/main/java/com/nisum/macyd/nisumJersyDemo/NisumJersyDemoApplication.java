@@ -10,5 +10,6 @@ public class NisumJersyDemoApplication {
 		System.out.println("sating lskbs");
 		SpringApplication.run(NisumJersyDemoApplication.class, args);
 		System.out.println("starting lskbs");
+		System.out.println("starsmsmsmnsmsmting lskbs remote");
 	}
 }
