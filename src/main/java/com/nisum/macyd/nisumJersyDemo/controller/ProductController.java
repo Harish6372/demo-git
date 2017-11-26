@@ -21,5 +21,8 @@ public String getProduct()
 {
 	return "productggggggsssss";
 }
-	
+	public String getProductsssssssssssss()
+	{
+		return "HHJJH";
+	}
 }
