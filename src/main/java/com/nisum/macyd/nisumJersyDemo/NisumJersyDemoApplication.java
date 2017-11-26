@@ -11,5 +11,7 @@ public class NisumJersyDemoApplication {
 		SpringApplication.run(NisumJersyDemoApplication.class, args);
 		System.out.println("starting lskbs");
 		System.out.println("starsmsmsmnsmsmting lskbs");
+		System.out.println("starsmsmsmnsmsmting remore");
+	}
 	}
 }
