@@ -7,6 +7,6 @@ public String getProduct()
 }
 	public String getProducts()
 {
-	return "productgggggg";
+	return "productggggggs";
 }
 }
