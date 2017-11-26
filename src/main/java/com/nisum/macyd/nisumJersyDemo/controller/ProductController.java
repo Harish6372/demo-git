@@ -5,4 +5,8 @@ public String getProduct()
 {
 	return "productgggggg";
 }
+public String getProducts()
+{
+	return "productgggggg";
+}
 }
