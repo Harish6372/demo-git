@@ -7,13 +7,15 @@ public String getProduct()
 }
 	public String getProducts()
 {
-	return "productggggggs";
+	return "master";
 }
 	public String getProductssss()
 	{
-		return "productggggggs";
+		return "resolvedbug";
 	}
 	public String getProductsssssssssss()
 	{
+		return "HHJJH";
 	}
+	
 }
