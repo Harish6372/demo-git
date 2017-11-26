@@ -3,7 +3,7 @@ package com.nisum.macyd.nisumJersyDemo.controller;
 public class ProductController {
 public String getProduct()
 {
-	return "productgggggg";
+	return "one poduct";
 }
 	public String getProducts()
 {
