@@ -12,5 +12,6 @@ public class NisumJersyDemoApplication {
 		System.out.println("starting lskbs");
 		System.out.println("starsmsmsmnsmsmting lskbs");
 		System.out.println("starsmsmsmnsmsmting lskbs local");
+		System.out.println("starsmsmsmnsmsmting lskbs local1");
 	}
 }
