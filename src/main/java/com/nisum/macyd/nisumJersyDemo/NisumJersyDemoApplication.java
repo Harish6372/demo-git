@@ -13,6 +13,7 @@ public class NisumJersyDemoApplication {
 		System.out.println("starsmsmsmnsmsmting lskbs");
 		System.out.println("starsmsmsmnsmsmting lskbs local");
 		System.out.println("starsmsmsmnsmsmting lskbs local1");
-		System.out.println("starsmsmsmnsmsmting lskbs local1");
+		System.out.println("starsmsmsmnsmsmting lskbs local1s");
+		System.out.println("starsmsmsmnsmsmting lskbs ljsajsajksajkocal1s");
 	}
 }
