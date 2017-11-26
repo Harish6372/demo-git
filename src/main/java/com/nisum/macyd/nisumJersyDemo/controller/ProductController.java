@@ -17,5 +17,9 @@ public String getProduct()
 	{
 		return "HHJJH";
 	}
+	public String getupdate()
+{
+	return "productggggggsssss";
+}
 	
 }
